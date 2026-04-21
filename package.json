@@ -56,7 +56,7 @@
     "rrdir": "^8.2.0"
   },
   "optionalDependencies": {
-    "@actions/core": "^1.2.6"
+    "@actions/core": "^3.0.1"
   },
   "directories": {
     "doc": "docs"
